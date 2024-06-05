@@ -1,0 +1,14 @@
+C:\Beubeu95\공부\C#\Day1\bin\Debug\net8.0\Day1.exe
+C:\Beubeu95\공부\C#\Day1\bin\Debug\net8.0\Day1.deps.json
+C:\Beubeu95\공부\C#\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
+C:\Beubeu95\공부\C#\Day1\bin\Debug\net8.0\Day1.dll
+C:\Beubeu95\공부\C#\Day1\bin\Debug\net8.0\Day1.pdb
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.AssemblyInfoInputs.cache
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.AssemblyInfo.cs
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.csproj.CoreCompileInputs.cache
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.dll
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\refint\Day1.dll
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.pdb
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
+C:\Beubeu95\공부\C#\Day1\obj\Debug\net8.0\ref\Day1.dll
