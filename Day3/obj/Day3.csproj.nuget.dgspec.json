@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Beubeu95\\공부\\C#\\Day3\\Day3.csproj": {}
+    "C:\\Beubeu95\\공부\\C#_.net\\asp.net\\Day3\\Day3.csproj": {}
   },
   "projects": {
-    "C:\\Beubeu95\\공부\\C#\\Day3\\Day3.csproj": {
+    "C:\\Beubeu95\\공부\\C#_.net\\asp.net\\Day3\\Day3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Beubeu95\\공부\\C#\\Day3\\Day3.csproj",
+        "projectUniqueName": "C:\\Beubeu95\\공부\\C#_.net\\asp.net\\Day3\\Day3.csproj",
         "projectName": "Day3",
-        "projectPath": "C:\\Beubeu95\\공부\\C#\\Day3\\Day3.csproj",
+        "projectPath": "C:\\Beubeu95\\공부\\C#_.net\\asp.net\\Day3\\Day3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Beubeu95\\공부\\C#\\Day3\\obj\\",
+        "outputPath": "C:\\Beubeu95\\공부\\C#_.net\\asp.net\\Day3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
